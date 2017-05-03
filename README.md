@@ -2,7 +2,7 @@
 [Albebraic Visualization, Jupyter notebook demos](https://github.com/quiltdata/algebraic-vis).
 
 # Vision
-Create an open-source semantic debugger for visualizations that helps designers to create more accurate visualization is in D3 through exploratory debugging of confusers, hallucinators, and other measurable distortions in visualization.
+Create an open-source semantic debugger for visualizations that helps designers to create more accurate visualization in D3 through exploratory debugging of confusers, hallucinators, and other measurable distortions in visualization. One feature would be to exlpore a variety of alpha functions for a given visualization through small multiples.
 
 # Informal napkin sketch
 * Automate discovery of confusers, hallucinators, and other algebraic propertes of visualizations
