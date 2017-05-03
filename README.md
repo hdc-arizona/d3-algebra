@@ -38,4 +38,4 @@ d3.selectAll("circle")
 
 
 # See also
-[Background, Jupyter examples of automated detection of semantic bugs in visualization](github.com/quiltdata/algebraic-vis).
+[Background, Jupyter examples of automated detection of semantic bugs in visualization](https://github.com/quiltdata/algebraic-vis).
