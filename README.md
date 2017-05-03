@@ -1,9 +1,15 @@
-# Napkin sketch
+# Background
+[Albebraic Visualization, Jupyter notebook demos](https://github.com/quiltdata/algebraic-vis).
+
+# Vision
+Create an open-source semantic debugger for visualizations that helps designers to create more accurate visualization is in D3 through exploratory debugging of confusers, hallucinators, and other measurable distortions in visualization.
+
+# Informal Napkin sketch
 * Automate discovery of confusers, hallucinators, and other algebraic propertes of visualizations
 * Method: d3 users will integrate against an algebraic visualization library and will access the parameters of their visualization
 through an interface that allows the present library to interpose various alpha functions and provoke semantic bugs:
 
-Unfinished code sample (for illustration only):
+Unfinished code sample (entertainment purposes only):
 ```javascript
 // BEFORE: D3 usage
 var line = d3.line()
@@ -37,5 +43,4 @@ d3.selectAll("circle")
 ```
 
 
-# See also
-[Background, Jupyter examples of automated detection of semantic bugs in visualization](https://github.com/quiltdata/algebraic-vis).
+
