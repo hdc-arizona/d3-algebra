@@ -4,7 +4,7 @@
 # Vision
 Create an open-source semantic debugger for visualizations that helps designers to create more accurate visualization is in D3 through exploratory debugging of confusers, hallucinators, and other measurable distortions in visualization.
 
-# Informal Napkin sketch
+# Informal napkin sketch
 * Automate discovery of confusers, hallucinators, and other algebraic propertes of visualizations
 * Method: d3 users will integrate against an algebraic visualization library and will access the parameters of their visualization
 through an interface that allows the present library to interpose various alpha functions and provoke semantic bugs:
